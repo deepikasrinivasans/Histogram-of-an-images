@@ -48,6 +48,7 @@ cv2.destroyAllWindows()
 <td>
   
 #### Output:
+### Input Grayscale Image and Color Image
 ![diptgray1](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8d172f61-7d6a-4648-8d96-a5b8249b448b)
 ![color](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8a8f6b9e-fe03-460f-a422-5eba1c3f10c9)
 </td>
@@ -58,7 +59,7 @@ cv2.destroyAllWindows()
 <tr>
   <td width=50%>
 
-### Histogram of Grayscale image and color image
+### Histogram of Grayscale image and any color image
 ```python
 import numpy as np
 import cv2
@@ -88,7 +89,10 @@ cv2.waitKey(0)
 <td>
 
 ### Output:
+#### Histogram of Grayscale image and any color image
+### Grayscale image
 ![dipt3](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/1aa62857-f5cd-4431-bbc0-2885e400b9df)
+### Color image
 ![dipt4](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8b10a4c9-0eef-4c8b-9567-59202db9a672)
 </td>
 </tr>
@@ -112,6 +116,7 @@ cv2.destroyAllWindows()
 <td>
   
 ### Output:
+### Histogram Equalization of Grayscale Image.
 ![grayscaleimagedipt5](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/61fba175-9053-47f5-918e-26673ef2906b)
 ![equalized imagedipt6](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/4251001b-3be2-4a5d-8579-72af6c275f3a)
 </td>
